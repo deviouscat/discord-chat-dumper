@@ -1,4 +1,4 @@
-# discord-chat-exporter
+# discord-chat-exporter |EDUCATIONAL PURPOSES ONLY|
 
 This is a small tool that exports any Discord chat you choose.  
 It saves all messages, usernames, timestamps, and every attachment in the channel.
